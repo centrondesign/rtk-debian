@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 3.0 (quilt)
 Source: gst-plugins-good1.0
 Binary: gstreamer1.0-pulseaudio, gstreamer1.0-qt5, gstreamer1.0-qt6, gstreamer1.0-gtk3, gstreamer1.0-plugins-good
@@ -22,29 +19,12 @@ Package-List:
 Checksums-Sha1:
  0b55df1cee4964864c56c453df2b676916c2aa39 2983396 gst-plugins-good1.0_1.26.2.orig.tar.xz
  909fc1a7d54483e3ef6c378c2ebf0fb82a60e533 833 gst-plugins-good1.0_1.26.2.orig.tar.xz.asc
- cb3bb95ebe59c00dd0b162c0ac531e306bf182ab 48896 gst-plugins-good1.0_1.26.2-1+deb13u2.debian.tar.xz
+ 2c0152017c4ebf2425ee425794f4f11f76619dc2 61692 gst-plugins-good1.0_1.26.2-1+deb13u2.debian.tar.xz
 Checksums-Sha256:
  d864b9aec28c3a80895468c909dd303e5f22f92d6e2b1137f80e2a1454584339 2983396 gst-plugins-good1.0_1.26.2.orig.tar.xz
  a52f49271f6831942bad02fa2d6c54675b1bda054396ed76a9f0515b3d3888c4 833 gst-plugins-good1.0_1.26.2.orig.tar.xz.asc
- 3b9fd22c35d15760164993dd80620202c74dda9592610eec59dd80257167df99 48896 gst-plugins-good1.0_1.26.2-1+deb13u2.debian.tar.xz
+ e64c67280a62d0f243fe7c5f73732f6decaa401a6f58cd24c992e6b516c9ba09 61692 gst-plugins-good1.0_1.26.2-1+deb13u2.debian.tar.xz
 Files:
  7062bc600dddee1f2a33df6fed7c27cc 2983396 gst-plugins-good1.0_1.26.2.orig.tar.xz
  f72aeca6265ecbbe9f0c992e6bc05aa6 833 gst-plugins-good1.0_1.26.2.orig.tar.xz.asc
- 3cac260a9054fac79ccdffd842f4bdaa 48896 gst-plugins-good1.0_1.26.2-1+deb13u2.debian.tar.xz
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCgAdFiEEtuYvPRKsOElcDakFEMKTtsN8TjYFAmo2fpUACgkQEMKTtsN8
-TjYqhBAAwDMV1K8BbE0G+LYmTmaCkTmV1HZfWGJRUexPZ6TIeOTQarQzrET5rNsm
-Ja60NF8U414ZOFKj3u3iwV2W4+qzRF3SWNF4vq7id2guFkq9iwiDsvq6mky7Oz92
-cacwUfQp3x1P9Dkpo4t5s6CSMguss/9GvtXkHD75EpN1r7GhxsN1vul4P5b1XEHj
-0Q2U2pUIQjxXYXdiiLH+0iBJ/hr0a/9igbUHmUKlKfg4/h6S9ry8FSH+0mnhp08m
-J/DsCAe7goW0buMfbmce5fuioPqdQwwiJy84JJDqOmc894bbTv8ycSteXaw8MbQS
-Re88RtE1yCfV8pDYmnY9bJMI0lM6pLcgjqEVwEo3XMEqVq4MnIrrdsP32qmPFHB4
-7RoeSn1M5v+4FwjRKlzJ6at4hFo3aBKV77SWQQkkwu1MqUEvx+LuPmjNLqo+8Luk
-iY3wwXNF1hlUFB/w/fb2vgnsDb6YIndp/tvLphgdgNs325tRzpjHc0Mqasn5rS7R
-0Z/yxTr+4Bf7UNeCT9Y1nI8ryWXj0Vy4zDS0Tww/x6ZYTrwrOugG/kCCGr7a5LQ5
-YtJcZuZyFU8tvMkCrUKOR2dXbL03zs25cY1BW/vbVjdprQXWY5OlhJOIt5Aqrrfn
-4cwxUvSZh0XgbegLuJLgideLRT2wugQnN3FsV14VPIm65SWzyPo=
-=xTyj
------END PGP SIGNATURE-----
+ b6e4b89d7d77e1144889edd906b3925c 61692 gst-plugins-good1.0_1.26.2-1+deb13u2.debian.tar.xz
