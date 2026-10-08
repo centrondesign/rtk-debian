@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 3.0 (quilt)
 Source: wlroots
 Binary: libwlroots-0.18-dev, libwlroots-0.18, libwlroots-0.18-examples
@@ -21,27 +18,10 @@ Package-List:
  libwlroots-0.18-examples deb libs optional arch=any
 Checksums-Sha1:
  e9e761b578ffe3f6088a5528c28511aab18f4c6e 469969 wlroots_0.18.2.orig.tar.bz2
- 2ba606910b678cfd8daeae7fe55901b39998c0a7 10076 wlroots_0.18.2-3.debian.tar.xz
+ 88a9c5dbb52166d1b83013c9abc9fbe9d31d9da8 15036 wlroots_0.18.2-3.debian.tar.xz
 Checksums-Sha256:
  a28061f7778f28f7be377fd4d6f0ebd58cb2a63b52460e9fde28e2ab43e80cab 469969 wlroots_0.18.2.orig.tar.bz2
- 4f8f1dc33b20e98ecb39667138faf31b700d72f3e327b54c869ed4db5d245056 10076 wlroots_0.18.2-3.debian.tar.xz
+ 5d2a4fa70c7bcdc994f101105c865867f3e95a144a676a6b4584144a5e5bfcff 15036 wlroots_0.18.2-3.debian.tar.xz
 Files:
  7bddeb636725b6807e4aafea68bf7965 469969 wlroots_0.18.2.orig.tar.bz2
- 4e71771be64b3c9a1e782e481e35e63f 10076 wlroots_0.18.2-3.debian.tar.xz
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCgAdFiEEY/bM35YinQkoayrDJb+GUkr8weMFAmeb16EACgkQJb+GUkr8
-weMYTA//Tk2bU+anvOFkvanh31M7nRByLoE7O+KZmegVu2gJQkIITB/vn+l5GeAD
-XCVqT7ETqtzXu/Tc+99qlroDPDCBQ9a2nM/RY/rzXyv58ISAfYq0CZZkgrJT6mmr
-qjivTGP8I/ocxsKoIe/jpiktztNsWUkz7LZ1waS6jt05s8/2+7oJ2KW2ID/e8xdv
-WOtw027TxIKBi9CH922pke4mHjemcq+ThIOS0vKC15nSk7YoQv3um4NaKrL8+BL+
-6oOply9a6zfAGeQd0G9RkhQNIpvUr/O8wii6SeTH0791zkmPlxV5YaetbPbrKgPM
-hEodMVm9n1QOkyVfAO6YR9osxPj+KWKkeb6ctuuVBFpQFsD6KRCMZ/nL5SOGsDto
-UlaoDN7RQA2ZEsEnYErJSiTxTIYn+8zVfDbzDQQBq55QYD1R1Zaqs7hvC0MN1vlC
-b3EQNr9gh7VYmrxkXWRxoygqlz2i9z+K03ey7dy7K0JccsWjUYynBXblTkEXwaAt
-2IgbARNINQeH0FG2N2chyci4vDbiLIwrSGAF+KcZcKyi/gMiAefQGrVbHkOu48ZV
-FFWpquMeJ2w+vu1s0mkZPRCJBHZObFcQCSNUEa4r9wTbZhEqNjvHWlPSUQiOMey7
-2OuYXTkFLVyblBb9tCL1GHcPlbReCq61ul62PCR92SqSHPKc9s4=
-=jm7c
------END PGP SIGNATURE-----
+ 5acc4ff8957fb5a6f1d8f7ec58574ac2 15036 wlroots_0.18.2-3.debian.tar.xz
