@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 3.0 (quilt)
 Source: labwc
 Binary: labwc
@@ -17,28 +14,10 @@ Package-List:
  labwc deb x11 optional arch=any
 Checksums-Sha1:
  5f9394fca0b9fd66309147ebf662ce1a931b035a 491309 labwc_0.8.3.orig.tar.gz
- c7c8c6515504fc338e84d01e88a1dbc3edfd7767 4084 labwc_0.8.3-1.debian.tar.xz
+ 2775c25b90b3f0de45f6cc2f05cbd7693bbcba6b 5732 labwc_0.8.3-1.debian.tar.xz
 Checksums-Sha256:
  746be2ff2d0c0c0b795c97fa24c7058f75586685c88a1194c243b6a846f938a5 491309 labwc_0.8.3.orig.tar.gz
- 52c46f0bf3b4b4186f3111b2a882fd1a0938d4e9995b3a1db1d941b28b32bc43 4084 labwc_0.8.3-1.debian.tar.xz
+ f1a82fddebb023596cfba7c0b0d3d301f29dbbb78cea1a33f5cbdc7f96e6a4f6 5732 labwc_0.8.3-1.debian.tar.xz
 Files:
  8ae8cfaafcbc782d0de68cadd4a86ea2 491309 labwc_0.8.3.orig.tar.gz
- 2ccdc4ea19086c72bd9b5d8e4e5e3ecd 4084 labwc_0.8.3-1.debian.tar.xz
-
------BEGIN PGP SIGNATURE-----
-
-iQJGBAEBCgAwFiEEOvC8tnwmrEjOtOW8KgxdYPIEvbAFAme5i4USHGJpcmdlckBk
-ZWJpYW4ub3JnAAoJECoMXWDyBL2wHpgQAMOiyy/SRAZ86KqwML9rOjfT/9cvfVql
-68BKg1QYvTCKdiOgnZ+tbcW15CYCVmajKeS5p3gQzuzMB33S8oabgfBhmmKRgvr6
-dC5IoHNWPcHbqwrGjMEQTq5pOMZm3/fHZtjENATD0t0/f2ZpP4zKYqlxtDTw+151
-c/GbTd0bC67TljuYETahFzFQ08SEQ3/osoOAjqfRQYni9D6EPeZDwg5KLA8wdV6X
-M1TsPgqZyIfaZbwlH1JFOjfRa5N1EMgKwKYnhNKzNvFt1PiOofXH6LbVonYmgk/6
-EEUfyy0WC7lo1FzaJM2zpzJPhQsyKozta+wZY3vik3WebY5b9UeOuXPrOWtrralC
-xgZq7vpJcqb8ZNjIsQgvBCnV7JIHeBMeMfZp8X7a3cMadNoI724IgZLXtDJeAVrb
-89omwcTdZnTU0ac8fJrGK02XfyzapCA97wBqHUD0YK5UnU8EmZEknA2hRL1xgjSO
-sjAAwgc5+dl5pKrtLxX2NoGGwSmvmvxYCpWPRhkL43eO6Z39l7FzqDbcZ8/F9vyx
-+iRNC4U0FVqhVJmTkaZm0p5gVMY4oS2iwADwTRAeEhWbGdtyYuJXkN+0gn5ng1jA
-iY6rB4gr3dqCxojf8kuKO/YfZhSZeLN0oKQxHdMxUkyzTS9SVSHDcBLyTXBaNoAK
-aMV1pRsM/6bk
-=cVa6
------END PGP SIGNATURE-----
+ d183c2ff69fdf625882608668933bef4 5732 labwc_0.8.3-1.debian.tar.xz
