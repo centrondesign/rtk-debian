@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 3.0 (quilt)
 Source: gst-plugins-bad1.0
 Binary: gstreamer1.0-plugins-bad-apps, gstreamer1.0-plugins-bad, gstreamer1.0-opencv, gstreamer1.0-wpe, libgstreamer-plugins-bad1.0-0, libgstreamer-opencv1.0-0, libgstreamer-plugins-bad1.0-dev, gir1.2-gst-plugins-bad-1.0
@@ -26,29 +23,12 @@ Package-List:
 Checksums-Sha1:
  0c42680cfcff91b435e0a0c573cb1f2d32d8e89c 7758304 gst-plugins-bad1.0_1.26.2.orig.tar.xz
  8b1ca624d6568ec0a28f216ec5533c1e9c24bbe0 833 gst-plugins-bad1.0_1.26.2.orig.tar.xz.asc
- 1df2e6a134ba7d6e433db6ad44d3a421ed4d575e 50352 gst-plugins-bad1.0_1.26.2-3+deb13u3.debian.tar.xz
+ 29f13a9852b93fee68a9026786def981b8de72cc 57928 gst-plugins-bad1.0_1.26.2-3+deb13u3.debian.tar.xz
 Checksums-Sha256:
  cb116bfc3722c2de53838899006cafdb3c7c0bc69cd769b33c992a8421a9d844 7758304 gst-plugins-bad1.0_1.26.2.orig.tar.xz
  d9008185109b6548fdf3e46d733a39728c657aed77c8c031c9b2534190b838ee 833 gst-plugins-bad1.0_1.26.2.orig.tar.xz.asc
- 41ab743a36cba54ee6d9688f482c35397e5ac431752a1481d6a33afb6ab1cbf8 50352 gst-plugins-bad1.0_1.26.2-3+deb13u3.debian.tar.xz
+ e5fbdbb69b4c8caa6fd2395d7b45948debaf13dbaa6a746c16035d090ac0e5b7 57928 gst-plugins-bad1.0_1.26.2-3+deb13u3.debian.tar.xz
 Files:
  1c77144089f81e47e2f5e079d094222f 7758304 gst-plugins-bad1.0_1.26.2.orig.tar.xz
  bc85cb2b0a927401c3af9ceaea5d459e 833 gst-plugins-bad1.0_1.26.2.orig.tar.xz.asc
- 852a2f60164bd05297d292370f1e44e5 50352 gst-plugins-bad1.0_1.26.2-3+deb13u3.debian.tar.xz
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCgAdFiEEtuYvPRKsOElcDakFEMKTtsN8TjYFAmp/PEgACgkQEMKTtsN8
-Tjb4NhAAugd91GHrKB/LoKcd4DWAjuhStyj3DdN+MO2/C3xz2TqDSWCgdtH5jqcC
-CLTgOCmFQy1SW6t40BwoEQTupvNfWO92Wi7i6KfhHod1rj8nugmCwDxstTW/dDfX
-uZPQ/btQ3U4txLOEKDWivWAdlKxJr8H1nwD/JPfiFTIYCbh++Bs0aOXJZJaJ6ftv
-DDJ90mZSAhLA7LIa87MOles+tNss71g0zKqtDc85KPDaoOUxfgZo6jrBp/MTwEu2
-oTSuT061hG+meMOuvVnQCrBojJVr+3Z2N9iygDzX42No2qeztVC+xWxLi/zNfiIm
-2leyoQX7dkv+AfpNst9wEL7opVSBgK9mgYplc58pyhIhy4AsXsyyRqvObAQwCieP
-qbGWcPimwHDCNmffvAje4huiTDjcOONG6YGnDvBbSxZXxuOVXTA28heHJIY5Zy5L
-FUqf3mqy5Vs9oCagpMczcGSaNZSr12FfcOYAUKVbd/najPUevkQl41bsXNYxNz5E
-SEw2mpyYnRbIM/MOurqZmF5RNhQAevEu1iaHS1gJszO1hywDgrLOoLhGnsTC/Rue
-P9HZywe2wa0tXKUXouJdmZCXDK8txZ65HJ8FtiD+/OjHb7ZYieUgB9pKqCxwyAh9
-2LzedL+gk5EioXdQoJ2vFTWw546JCFthK0Cy1+XPNTx9lyZ2B4A=
-=RiIZ
------END PGP SIGNATURE-----
+ 2cd4630c0a1319c7233b84abc5c7d5d3 57928 gst-plugins-bad1.0_1.26.2-3+deb13u3.debian.tar.xz
